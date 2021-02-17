@@ -41,120 +41,114 @@ with open ('board.csv', 'r') as csv_file:
 	reader = csv.reader(csv_file)
 	if score_total == 1.11:
 		for row in reader:
-			print(row[0])
+			print(row[1])
 	if score_total == 1.12:
 		for row in reader:
-			print(row[1])
+			print(row[2])
 	if score_total == 1.21:
 		for row in reader:
-			print(row[2])
+			print(row[3])
 	if score_total == 1.22:
 		for row in reader:
-			print(row[2])
+			print(row[4])
 	if score_total == 1.31:
 		for row in reader:
-			print(row[3])
+			print(row[5])
 	if score_total == 1.32:
 		for row in reader:
-			print(row[4])
+			print(row[6])
 	if score_total == 1.41:
 		for row in reader:
-			print(row[5])
+			print(row[7])
 	if score_total == 1.42:
 		for row in reader:
-			print(row[6])
+			print(row[8])
 	if score_total == 1.51:
 		for row in reader:
-			print(row[7])
+			print(row[9])
 	if score_total == 1.52:
 		for row in reader:
-			print(row[8])
-
-
-
+			print(row[10])
 	if score_total == 1.61:
 		for row in reader:
-			print(row[9])
+			print(row[11])
 	if score_total == 1.62:
 		for row in reader:
-			print(row[10])		
+			print(row[12])		
 ###########
 	if score_total == 2.11:
 		for row in reader:
-			print(row[11])
+			print(row[13])
 	if score_total == 2.12:
 		for row in reader:
-			print(row[12])
+			print(row[14])
 	if score_total == 2.21:
 		for row in reader:
-			print(row[13])
+			print(row[15])
 	if score_total == 2.22:
 		for row in reader:
-			print(row[14])
+			print(row[16])
 	if score_total == 2.31:
 		for row in reader:
-			print(row[15])
+			print(row[17])
 	if score_total == 2.32:
 		for row in reader:
-			print(row[16])
+			print(row[18])
 	if score_total == 2.41:
 		for row in reader:
-			print(row[17])
+			print(row[19])
 	if score_total == 2.42:
 		for row in reader:
-			print(row[18])
+			print(row[20])
 	if score_total == 2.51:
 		for row in reader:
-			print(row[19])
+			print(row[21])
 	if score_total == 2.52:
 		for row in reader:
-			print(row[20])
-
-
+			print(row[22])
 	if score_total == 2.61:
 		for row in reader:
-			print(row[21])
+			print(row[23])
 	if score_total == 2.62:
 		for row in reader:
-			print(row[18])				
+			print(row[24])				
 #########
 	if score_total == 3.11:
 		for row in reader:
-			print(row[22])
+			print(row[25])
 	if score_total == 3.12:
 		for row in reader:
-			print(row[23])
+			print(row[26])
 	if score_total == 3.21:
 		for row in reader:
-			print(row[24])
+			print(row[27])
 	if score_total == 3.22:
 		for row in reader:
-			print(row[25])
+			print(row[28])
 	if score_total == 3.31:
 		for row in reader:
-			print(row[26])
+			print(row[29])
 	if score_total == 3.32:
 		for row in reader:
-			print(row[27])
+			print(row[30])
 	if score_total == 3.41:
 		for row in reader:
-			print(row[28])
+			print(row[31])
 	if score_total == 3.42:
 		for row in reader:
-			print(row[29])
+			print(row[32])
 	if score_total == 3.51:
 		for row in reader:
-			print(row[30])
+			print(row[33])
 	if score_total == 3.52:
 		for row in reader:
-			print(row[31])
-
+			print(row[34])
 	if score_total == 3.61:
 		for row in reader:
-			print(row[32])
+			print(row[35])
 	if score_total == 3.62:
 		for row in reader:
-			print(row[33])
+			print(row[36])
 
 
 
