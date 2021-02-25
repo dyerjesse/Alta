@@ -37,6 +37,7 @@ if int(boot_size) >= 11.5:
 score_total = (score[0] + score[1] + score[2])
 print(score_total)
 
+
 with open ('board.csv', 'r') as csv_file:
 	reader = csv.reader(csv_file)
 	if score_total == 1.11:
@@ -151,5 +152,20 @@ with open ('board.csv', 'r') as csv_file:
 			print(row[36])
 
 
+print("If you entered in a boot size of 11.5 or above make sure you look for a wide board. These are often marked by a wide designation or a 'w'.")
+
+
+adv = raw_input("If you would like to proceed to the advanced questionaire type 'yes'.  ")
+
+if (adv == "yes"):
+	flex = raw_input("How much flex do you want in your board? soft, medium, stiff?  ")
+	if flex == "soft":
+		score.append(.001)
+	if flex == "medium":
+		score.append(.002)
+	if flex == "stiff":
+		score.append(.003)
+
+print(score)
 
 
