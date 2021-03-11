@@ -212,7 +212,7 @@ if sport == ("board") :
 			for row in reader:
 				print(row[51])
 
-"""
+'''
 if sport == ("ski"):
 	with open('ski.csv', 'r') as ski_db:
 		ski_reader = csv.reader(ski_db)
@@ -234,7 +234,7 @@ if sport == ("ski"):
 		if score_total == 1.6:
 			for row in ski_reader::
 			print(row[6])
-"""
+'''
 
 #print("If you entered in a boot size of 11.5 or above make sure you look for a wide board. These are often marked by a wide designation or a 'w'.")
 

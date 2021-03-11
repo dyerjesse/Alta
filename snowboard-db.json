@@ -1,0 +1,68 @@
+[	
+	{
+	"Brand": "Arbor",
+	"Boards": {
+		 "Model": "A-Frame",
+		 "Year": 2021,
+			 "Specs": {
+			 		"Shape": "Directional",
+					"Flex rating": 8,
+					"Profile": ["camber", "parabolic camber"],
+					"Taper": true,
+					"Core/Laminates": ["Carbon", "Wood"],
+					"Sizes": {
+						"158": {
+							"Effective Edge(mm)": 1160,
+							"Tip Width(mm)": 296.2,
+							"Waist Width(mm)": 254,
+							"Tail Width(mm)": 287.6,
+							"Sidecut Radius": [9.1, 8.2, 9.1],
+							"Stance Setbackmm": 10,
+							"Rider Weight(lbs)": [126, 206],
+							"Width": "regular",
+						},
+						"159W": {
+							"Effective Edge(mm)": "NA",
+							"Tip Width(mm)": "NA",
+							"Waist Width(mm)": "NA",
+							"Tail Width(mm)": "NA",
+							"Sidecut Radius": "NA",
+							"Stance Setbackmm": "NA",
+							"Rider Weight(lbs)": "NA",
+							"Width": "wide",
+						},
+						"162": {
+							"Effective Edge(mm)": 1196,
+							"Tip Width(mm)": 299.7,
+							"Waist Width(mm)": 256,
+							"Tail Width(mm)": 291,
+							"Sidecut Radius": [9.3, 8.4, 9.3],
+							"Stance Setbackmm": 10,
+							"Rider Weight(lbs)": [134, 214],
+							"Width": "regular",
+						},
+						"165MW": {
+							"Effective Edge(mm)": 1222,
+							"Tip Width(mm)": 310.8,
+							"Waist Width(mm)": 266,
+							"Tail Width(mm)": 302.1,
+							"Sidecut Radius": [9.45, 8.55, 9.45],
+							"Stance Setbackmm": 10,
+							"Rider Weight(lbs)": [140, 220],
+							"Width": "midwide",
+						},
+						"170W": {
+							"Effective Edge(mm)": 1268,
+							"Tip Width(mm)": 320.3,
+							"Waist Width(mm)": 273.5,
+							"Tail Width(mm)": 311.4,
+							"Sidecut Radius": [9.7, 8.8, 9.7],
+							"Stance Setbackmm": 10,
+							"Rider Weight(lbs)": [134, 214],
+							"Width": "wide",
+						}
+					},
+			}
+		}
+	}
+]
