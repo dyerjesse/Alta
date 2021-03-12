@@ -1,8 +1,8 @@
 [	
 	{
-	"Brands": {
+	"Brands": [ {
 		"Arbor": {
-			"Boards": {
+			"Boards": [ {
 				"Model": "A-Frame",
 				"Year": 2021,
 				"URL": "https://www.arborcollective.com/collections/featured-snowboards/products/a-frame-21",
@@ -101,7 +101,7 @@
 									"Width": "wide",
 								},
 							},
-				} , 
+				}, 
 
 				"Model": "Annex",
 				"Year": 2021,
@@ -188,7 +188,7 @@
 									"Width": "midwide",
 								},
 						},	
-					} , /*A-Frame End*/
+					} , 
 				"Model": "Bryan Iguchi Pro Camber",
 				"Year": 2021,
 				"URL": "https://www.arborcollective.com/collections/unisex-snowboards/products/iguchi-pro-camber-21",
@@ -334,12 +334,9 @@
 									"Width": "wide",
 								},
 						},	
-					}, /*Cask*/
+					}
 				}
-			}, /*Arbor End*/
-		"Burton" : {
-
-			},
+			]}
 		}
-	}
+	]}
 ]
