@@ -21,7 +21,7 @@
 							"Base Type": "Sintered+",
 							"Binding Mount Pattern": "2x4 14-Pack Inserts",
 							"Additional Features": ["Double Barrel Core", "Highland II Core", "Recycled Steel Edges", "Bio Resin", "Zero Waste Base Technology", "Recycled ABS", "360 Degree Sidewall", "Mixed Glassing", "Factory Tuned"],
-							"Sizes": {
+							"Sizes": [{
 								"154": {
 									"Effective Edge(mm)": 1124,
 									"Tip Width(mm)": 293,
@@ -99,9 +99,9 @@
 									"Stance Width(cm)": 54,
 									"Rider Weight(lbs)": [134, 214],
 									"Width": "wide",
-								},
+								}
 							},
-				}, 
+				]}, 
 
 				"Model": "Annex",
 				"Year": 2021,
@@ -121,7 +121,7 @@
 							"Base Type": "Sintered+",
 							"Binding Mount Pattern": "2x4 14-Pack Inserts",
 							"Additional Features": ["Inlaid Powerply Stringer", "Double Barrel Core", "Bio Resin", "Recycled Steel Edges", "360 Degree Sidewall", "Recycled ABS", "Zero Waste Base Technology", "Factory Tuned"],
-							"Sizes": {
+							"Sizes": [{
 								"156": {
 									"Effective Edge(mm)": 1148,
 									"Tip Width(mm)": 301,
@@ -186,9 +186,9 @@
 									"Stance Width(cm)": 54,
 									"Rider Weight(lbs)": [134, 214],
 									"Width": "midwide",
-								},
+								}
 						},	
-					} , 
+					]} , 
 				"Model": "Bryan Iguchi Pro Camber",
 				"Year": 2021,
 				"URL": "https://www.arborcollective.com/collections/unisex-snowboards/products/iguchi-pro-camber-21",
@@ -207,7 +207,7 @@
 							"Base Type": "Sintered+",
 							"Binding Mount Pattern": "2x4 14-Pack Inserts",
 							"Additional Features": ["Factory Tuned", "360 Degree Sidewall", "Recycled Steel Edges", "Bio Resin", "Wend Natural Wax", "Factory Tuned"],
-							"Sizes": {
+							"Sizes": [{
 								"153": {
 									"Effective Edge(mm)": 1121,
 									"Tip Width(mm)": 289,
@@ -287,7 +287,7 @@
 									"Width": "midwide",
 								},
 						},	
-					}, /*Bryan Iguchi Pro Camber*/
+					]}, /*Bryan Iguchi Pro Camber*/
 				"Model": "Cask",
 				"Year": 2021,
 				"URL": "https://www.arborcollective.com/collections/unisex-snowboards/products/cask-20",
@@ -306,7 +306,7 @@
 							"Base Type": "Sintered CrossLink Base",
 							"Binding Mount Pattern": "2x4 14-Pack Inserts",
 							"Additional Features": ["Factory Tuned", "360 Degree Sidewall", "Recycled Steel Edges", "Wend Natural Wax", "Entropy Bio Resin", "Pow Tech"],
-							"Sizes": {
+							"Sizes": [{
 								"145": {
 									"Effective Edge(mm)": 1052,
 									"Tip Width(mm)": 317.2,
@@ -332,9 +332,9 @@
 									"Stance Width(cm)": 54,
 									"Rider Weight(lbs)": [128, 208],
 									"Width": "wide",
-								},
+								}
 						},	
-					}
+					]}
 				}
 			]}
 		}
