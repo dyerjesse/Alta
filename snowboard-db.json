@@ -332,65 +332,7 @@
           "Stance Width(cm)": 54,
           "Rider Weight(lbs)": [128, 208],
           "Width": "wide"
-        },  {
-      "Model": "Clovis",
-      "Year": 2021,
-      "URL": "https://www.arborcollective.com/collections/unisex-snowboards/products/clovis-21",
-      "Manufacturer Description": "The Clovis is inspired by Mark Carter’s pursuit of chasing technical lines in steep and deep terrain. Increased volume in the nose for float matched with System Camber and a tapered outline delivers confidence and performance riding in any terrain.",
-      "Specs": {
-        "Board Type": "Freeride",
-        "Shape": "Directional",
-        "Flex rating": 6,
-        "Profile": ["Parabolic Camber"],
-        "Taper": true,
-        "Edge Technology": "Grip Tech",
-        "3D Shape": ["Uprise Fenders"],
-        "Topsheet Material": ["Bio-Plastic Topsheet", "American Black Walnut Powerply"],
-        "Core": ["Double Barrel Core", "AWD Carbon A-Frame Board Reinforcement"],
-        "Laminates": ["Mixed Glassing"],
-        "Base Type": "Sintered CrossLink Base",
-        "Binding Mount Pattern": "2x4 14-Pack Inserts",
-        "Additional Features": ["Factory Tuned", "360 Degree Sidewall", "Recycled Steel Edges", "Wend Natural Wax", "Entropy Bio Resin", "Pow Tech"],
-        "Sizes": [{
-          "Size": "157",
-          "Effective Edge(mm)": 1117,
-          "Tip Width(mm)": 296,
-          "Waist Width(mm)": 256,
-          "Tail Width(mm)": 288,
-          "Tip Length(mm)": 329,
-          "Tail Length(mm)": 190,
-          "Sidecut Radius": [8.75, 7.85, 8.75],
-          "Stance Setback(mm)": 0,
-          "Stance Width(cm)": 54,
-          "Rider Weight(lbs)": [124, 204],
-          "Width": "regular"
-        }, {
-          "Size": "159",
-          "Effective Edge(mm)": 1135,
-          "Tip Width(mm)": 298,
-          "Waist Width(mm)": 257,
-          "Tail Width(mm)": 290,
-          "Tip Length(mm)": 330,
-          "Tail Length(mm)": 200,
-          "Sidecut Radius": [8.85, 7.95, 8.85],
-          "Stance Setback(mm)": 0,
-          "Stance Width(cm)": 54,
-          "Rider Weight(lbs)": [128, 208],
-          "Width": "regular"
-      	}, {
-      	  "Size": "161",
-          "Effective Edge(mm)": 1153,
-          "Tip Width(mm)": 300,
-          "Waist Width(mm)": 258,
-          "Tail Width(mm)": 292,
-          "Tip Length(mm)": 331,
-          "Tail Length(mm)": 201,
-          "Sidecut Radius": [9.4, 8.5, 9.4],
-          "Stance Setback(mm)": 0,
-          "Stance Width(cm)": 54,
-          "Rider Weight(lbs)": [132, 212],
-          "Width": "regular"
-      }
+        }
       ]}
     }]
   }]
